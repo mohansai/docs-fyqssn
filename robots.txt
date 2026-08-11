@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-nlgury.date-me.pro/sitemap.xml
